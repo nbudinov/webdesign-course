@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title> Task 2 </title>
+</head>
+<body>
+	<ul>
+		<li>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum eleifend nunc et facilisis accumsan. Nullam id viverra dolor. Nunc malesuada ut nunc ut scelerisque. Proin non euismod lorem. Donec quis sem lobortis, auctor augue vel, posuere tortor. Proin luctus aliquam ultrices. Mauris luctus lorem et placerat pharetra. Aliquam molestie, magna eu blandit ultricies, sapien massa venenatis risus, id dictum lectus sapien vel nulla. Donec ultricies est a tortor semper porta vel et dolor. Vivamus tincidunt magna nisi, id convallis purus facilisis eu. Maecenas feugiat ac erat ac laoreet. Maecenas neque felis, lacinia vitae sapien in, sagittis convallis nibh. Suspendisse lacinia ante sed enim suscipit ullamcorper. Donec vel ultrices nulla. Ut eget purus velit.</li>
+
+		<li>Vivamus rhoncus quam et enim iaculis, ut euismod nisl tempus. Etiam non nisi congue, suscipit velit at, lobortis justo. Curabitur diam nisi, suscipit sed convallis ac, elementum nec mauris. Suspendisse sed porta diam. Sed et tempus lectus, vitae eleifend arcu. Mauris pretium pellentesque sem, nec laoreet arcu elementum quis. Sed a justo et diam lobortis pulvinar ut ut odio. Proin ullamcorper, odio sed suscipit pharetra, sem massa hendrerit lacus, id accumsan neque erat quis est. Sed et turpis dictum, sagittis arcu sed, tristique libero. Nullam rutrum scelerisque risus, quis commodo odio vehicula eget. Sed luctus sagittis erat vel semper. Sed non euismod dui. Donec mattis leo ac sapien euismod porta.</li>
+		<ol>
+
+			<li>Maecenas dolor enim, euismod ac lectus vel, vulputate venenatis lorem. Suspendisse rhoncus metus vel tellus pellentesque ornare. Pellentesque quis arcu eget mi tempus venenatis ultricies in tortor. Duis pharetra tellus felis, in volutpat odio egestas at. Vivamus ut elementum nunc, ut lacinia nulla. Vestibulum tempor, tortor et pellentesque euismod, leo enim placerat mauris, congue luctus felis libero quis nisi. Mauris at vulputate orci, at auctor dolor.</li>
+
+			<li>In eu tempus velit. Maecenas dictum lorem ac lorem elementum, non gravida metus tincidunt. Quisque ut mi ac tellus molestie vestibulum sed id massa. Aliquam vitae facilisis massa, ac varius nunc. Sed lobortis lectus eu tellus adipiscing, eget pellentesque tortor commodo. Interdum et malesuada fames ac ante ipsum primis in faucibus. Integer nec purus tincidunt, aliquam eros quis, imperdiet mauris. Suspendisse tincidunt arcu molestie nunc congue placerat. Mauris sollicitudin posuere mi, in imperdiet libero posuere in. Vestibulum eleifend faucibus lacinia. Praesent vel convallis sem. Donec auctor odio non eros egestas bibendum. Aenean placerat erat quis venenatis condimentum. Donec nunc diam, varius nec sem at, adipiscing rhoncus sapien.</li>
+			<ul>
+				<li>Proin id malesuada nunc, in volutpat ipsum. Mauris porta auctor neque, nec fermentum lorem aliquam eget. Donec magna augue, dignissim vitae ante et, lobortis egestas nulla. Proin nec diam vel elit venenatis ultrices. Nunc sodales ante vitae gravida mollis. Nunc blandit, orci ut pulvinar rhoncus, libero erat pulvinar turpis, a fermentum justo eros sed felis. Donec placerat mauris a tellus gravida, quis accumsan dolor pulvinar.</li>
+				<li>Integer posuere lobortis velit, eu vestibulum nulla molestie et. Nunc quam urna, hendrerit fermentum metus id, facilisis vehicula odio. Sed dignissim leo dolor, nec scelerisque erat porta et. Nulla auctor velit nec leo laoreet posuere. Nam lacinia eros dui, ut dapibus ante volutpat quis. Nulla cursus nunc at augue dapibus, sit amet scelerisque arcu tempus. Sed vitae odio velit. Nulla ac mauris lacus. Proin aliquet pretium faucibus. Praesent tristique tellus vel orci hendrerit accumsan.</li>
+			</ul>
+			
+		</ol>
+
+			<li>Urabitur ut magna eu velit dapibus posuere ut sit amet dolor. Suspendisse porta ullamcorper nunc in auctor. Sed a molestie mi, ut dapibus metus. Etiam porttitor tempor faucibus. Etiam eget odio eu nunc ultrices ultrices. Nam quis sem quis arcu pulvinar euismod at vitae mauris. Sed sem mi, dictum ut purus sit amet, sodales interdum metus. Nulla facilisi. Sed rutrum auctor feugiat. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Integer eget blandit purus, eu imperdiet quam. Quisque luctus sem eu diam feugiat pretium.</li>
+			<li>Pellentesque eu lacinia augue, eget ullamcorper lectus. Quisque iaculis in nibh vel feugiat. Integer condimentum dictum quam, vitae dapibus elit cursus nec. Donec fermentum, sem et hendrerit dapibus, dolor diam porta risus, volutpat imperdiet nulla est et erat. Cras ultrices malesuada nunc, ullamcorper tincidunt lorem tincidunt sit amet. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Aliquam erat volutpat.</li>
+			<li>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent mauris orci, porta nec metus eget, semper blandit tellus. Morbi tellus nulla, consequat vel laoreet porttitor, egestas id risus. Aliquam id viverra risus. Curabitur feugiat hendrerit felis, ut auctor arcu rutrum ac. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Etiam eget accumsan dui, aliquet viverra enim. Sed euismod nunc laoreet cursus interdum. Nullam lobortis ipsum ac justo dapibus, ac porta arcu rhoncus. Duis sollicitudin massa ac vestibulum semper.</li>
+		</ul>
+	</body>
+</html>
+
+
