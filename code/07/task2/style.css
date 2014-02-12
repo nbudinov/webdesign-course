@@ -1,0 +1,8 @@
+* { margin: 0; padding: 0; }
+header, footer, .body .wrapper { padding: 15px; background-color: #ff70ff; }
+header, footer, .body { margin: 15px; }
+.body > .sidebar > .wrapper { margin-right: 15px }
+.body { overflow: hidden; }
+.body > .content, .body > .sidebar { float: right; }
+.body > .content { width: 70%; }
+.body > .sidebar { width: 30%; }
