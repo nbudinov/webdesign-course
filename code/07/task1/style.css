@@ -1,5 +1,5 @@
 * { margin: 0; padding: 0; }
-header, footer, .body .wrapper { padding: 10px; background-color: #eee; }
+header, footer, .body .wrapper { padding: 10px; background-color: #808080; }
 header, footer, .body { margin: 10px; }
 .body > .sidebar > .wrapper { margin-left: 10px }
 .body { overflow: hidden; }
