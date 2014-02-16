@@ -1,0 +1,12 @@
+* { margin: 0; padding: 0; }
+a { text-decoration: none; color: #808080; }
+
+.listche { width: 600px; padding: 40px 0; color: #000; background: #eee url('mileyy.jpg') no-repeat scroll center center; }
+.listche > ol { width: 70%; margin: 0 auto; }
+.listche > ol > li { padding: 10px; }
+.listche > ol > li > a { display: block; overflow: hidden; }
+.listche > ol > li > a > .title { float: left; }
+.listche > ol > li > a > .duration { float: right; }
+.listche > ol > li > a > .dots { display: block; height: 1em; overflow: hidden; border-bottom: 1px dotted #000; }
+
+.listche .footer { margin: 10px; text-align: center; }
