@@ -1,0 +1,14 @@
+* { margin: 0; padding: 0; }
+a { text-decoration: none; color: #fff; }
+nav { display: block; }
+.clear { clear: both; }
+
+nav.steal, nav.steal a { background-color: #808080; }
+nav.steal a:hover { background-color: #ddd; }
+nav.steal a { display: block; padding: 15px; white-space: nowrap; }
+
+nav.steal > ul > li { float: left; }
+nav.steal > ul li { display: block; position: relative; }
+nav.steal > ul li ul { display: none; position: absolute; }
+nav.steal > ul li:hover > ul { display: block; }
+nav.steal > ul li ul li ul { left: 100%; top: 10%; }
