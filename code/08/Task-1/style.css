@@ -1,0 +1,15 @@
+* { margin: 0; padding: 0; }
+a { text-decoration: none; color: inherit; }
+nav { display: block; }
+.clear { clear: both; }
+ul {color:white; font-size:20px;}
+
+nav.links, nav.links a { background-color: #FF1493; }
+nav.links a:hover { background-color: #ff70ff; }
+nav.links a { display: block; padding: 20px; white-space: nowrap; }
+
+nav.links > ul > li { float: left;}
+nav.links > ul li { display: block; position: relative; }
+nav.links > ul li ul { display: none; position: absolute; }
+nav.links > ul li:hover > ul { display: block; }
+nav.links > ul li ul li ul { left: 100%; top: 0%; }
