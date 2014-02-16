@@ -1,5 +1,0 @@
-* { margin: 5; padding: 0; }
-
-.galeriika img { width: 200px; }
-.galeriika li { display: block; float: left; margin: 20px; }
-.galeriika li:nth-child(4n+1) { clear: both; }
